@@ -1,0 +1,2 @@
+# premium-projection-001-map-projection-selection-and-d
+Stop guessing which map projection to use and start documenting every distortion tradeoff with a structured log that turns subjective choice into objective evidence.  This Notion template solves the common pain point of inconsistent projection selection by providing a dedicated log to record, compare, and justify your choices. With built-in distort
